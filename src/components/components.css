@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(90, 172, 223);
+}
+
+.Name {
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
+nav ul li {
+    display: inline-block;
+    justify-content: space-between;
+    font-style: oblique;
+
+}
+
+#aboutmeCont{
+    display: flex;
+}
+
+#Me {
+    width: 10%;
+    border-radius: 30%;
+    display: block;
+    margin: auto;
+    
+}
+
+
+#aboutmeText{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    border-right: 2px solid black;
+}
+
+#aboutmePar{
+    width:75%;
+    margin-left: 2%;
+}
+
+#portfolioCont{
+    display: flex;
+    margin-top: 1%
+}
+ #portfolioText{
+    width: 24.5%;
+    border-right: 2px solid black;
+    display:flex;
+    justify-content: center;
+ }
+
+ #portfolio{
+    width:75%;
+    margin-left: 1%;
+ }
+
+ #projOne{
+    position: relative;
+ }
+ #projOneImg{
+    width: 70%;
+    border:2px solid rgb(67, 82, 245);
+ }
+
+ #projOneText{
+    height: 6%;
+    width: 12%;
+    padding-left: 2%;
+    position:absolute;
+    bottom: 1%;
+    background-color: black;
+    color: gray;
+   
+ }
+
+ #projRow{
+    display:flex;
+ }
+ #projTwo{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    
+ }
+#projTwoText{
+    position:absolute;
+    bottom: 5%;
+
+}
+ #projThree{
+    width:40%;
+    height:40%;
+    position: relative;
+ }
+ #projThreeText{
+    position:absolute;
+    bottom: 5%;
+    color: blue;
+    background-color: black
+
+}
+
+ .projImg{
+    width: 75%;
+    
+    
+ }
+
+
+
+#footer {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#footertxt {
+    width: 24.3%;
+    border-right: 2px solid black;
+    display:flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+#link {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 100%;
+    font-size: larger;
+
+   
+   
+
+    
+    
+}
+
+
+
+
+
+
+@media screen and (max-width: 576px) {
+    
+  }  
