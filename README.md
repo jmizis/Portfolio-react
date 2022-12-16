@@ -9,7 +9,10 @@ In this assignment we created our second portfolio of the course using react as 
 
 ## Github 
 
-On Github I was able to create a new repository where I was able to push all my work to. Before even starting the challenge I had to clone the new repository to my computer first. I cloned it using my gitbash, from there on any code I worked on in visual studio code I was able to save it and push it back to my repository. Once all my work was done I created a README.md did a final push.
+On Github I was able to create a new repository where I was able to push all my work to. Before even starting the challenge I had to clone the new repository to my computer first. I cloned it using my gitbash, from there on any code I worked on in visual studio code I was able to save it and push it back to my repository. Once all my work was done I created a README.md did a final push and created my deployed URL https://newportfolio-react.herokuapp.com/projects
+
+![Screenshot (15)](https://user-images.githubusercontent.com/107073756/208138529-c8161b20-d3fb-425a-bbfe-16e086599fc4.png)
+
 
 
 
@@ -24,3 +27,4 @@ This was a great assignment to show off our new skills building a site with reac
 
 ## Links 
 Git Hub URL: https://github.com/jmizis/Portfolio-react
+Deployed URL: https://newportfolio-react.herokuapp.com/projects
