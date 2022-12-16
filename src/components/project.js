@@ -25,7 +25,7 @@ function Projects() {
                             src='https://sdsclub.com/wp-content/uploads/2020/12/1200x630_Blog-min.png'/>
 </a>
                         <h5 id="projTwoText">
-                            Project 2
+                            Project two
                         </h5>
 
                     </div>
@@ -36,7 +36,7 @@ function Projects() {
                             src='https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2021/03/CDG_blog_post_image_02.jpg'/>
 </a>
                         <h5 id="projTwoText">
-                            Project 2
+                            Project three
                         </h5>
 
                     </div>
@@ -48,7 +48,7 @@ function Projects() {
                             src='https://www.ntaskmanager.com/wp-content/uploads/2020/02/What-is-a-Project-1-scaled.jpg'/>
 </a>
                         <h5 id="projTwoText">
-                            Project 2
+                            Project four
                         </h5>
 
                     </div>
@@ -57,7 +57,7 @@ function Projects() {
                             src="https://images.techopedia.com/images/uploads/computer-hardware-electronics-hardware-logo-trademark-poster-building.jpg?w=800&h=0&mode=max&quality=70&scale=both"/>
 </a>
                         <h5 id="projThreeText">
-                            Project 3
+                            Project five
                         </h5>
 
                     </div>
@@ -67,7 +67,7 @@ function Projects() {
                             src="https://images.ctfassets.net/yr4qj72ki4ky/legacyBlogPost77Thumbnail/cd4783ad7b35efc4367166a570a9952e/bigstock-Real-Java-Script-Code-Developi-217215433.jpg?q=72"/>
 </a>
                         <h5 id="projThreeText">
-                            Project four
+                            Project six
                         </h5>
 
                     </div>

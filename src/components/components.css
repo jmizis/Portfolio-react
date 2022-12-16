@@ -83,23 +83,13 @@ nav ul li {
     position: relative;
     
  }
-/* #projTwoText{
-    position:absolute;
-    bottom: 5%;
 
-} */
  #projThree{
     width:40%;
     height:40%;
     position: relative;
  }
- /* #projThreeText{
-    position:absolute;
-    bottom: 5%;
-    color: blue;
-    background-color: black
 
-} */
 
 #projNew{
     width:60%;
@@ -115,17 +105,17 @@ nav ul li {
  }
 
 #githubPic {
-    width:6%;
-    height:6%;
-    display: flex;
-    justify-content: center;
+    width:15%;
+    height:15%;
+    
+   
 }
 
-/* #footer {
+#footer {
     display: flex;
     justify-content: center;
     
-} */
+}
 
 #footertxt {
    
