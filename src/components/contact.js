@@ -15,7 +15,7 @@ function Contact() {
 
              <li>Jmizis@hotmail.com</li>
 
-             <li><a href="https://docs.google.com/document/d/1qmpIHz5sl4KRMDnB5lGip29XVcX8hqrB_ZqG4ft1ZOg">Resume</a></li>
+             <li><a href="file:///C:/Users/jmizi/OneDrive/Desktop/John%20Mizis%20Resume%20Final.pdf">Resume</a></li>
         </ul>
     </section>
       </div>
